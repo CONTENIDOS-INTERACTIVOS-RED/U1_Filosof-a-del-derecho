@@ -52,7 +52,7 @@
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto La ciencia jurídica y la filosofía del Derecho como fundamento de la Ciencia Jurídica
             p.mb-5(data-aos="fade-up") En el PDF La ciencia jurídica y la filosofía del Derecho , se analiza cómo distintas corrientes filosóficas, desde el positivismo hasta el garantismo, han influido en la manera de concebir el Derecho como una ciencia. Este análisis permite al estudiante identificar los fundamentos teóricos que sostienen la práctica jurídica y reflexionar críticamente sobre el papel del Derecho en la protección de los derechos fundamentales y en la configuración de una sociedad justa.
-            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_La ciencia jurídica y la filosofía del Derecho.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> La ciencia jurídica y la filosofía del Derecho como fundamento de la Ciencia Jurídica
           .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="zoom-in")
