@@ -51,8 +51,8 @@
         div.px-5.pb-md-3.py-4.d-flex
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto La ciencia jurídica y la filosofía del Derecho como fundamento de la Ciencia Jurídica
-            p.mb-5(data-aos="fade-up") En el PDF La ciencia jurídica y la filosofía del Derecho , se analiza cómo distintas corrientes filosóficas, desde el positivismo hasta el garantismo, han influido en la manera de concebir el Derecho como una ciencia. Este análisis permite al estudiante identificar los fundamentos teóricos que sostienen la práctica jurídica y reflexionar críticamente sobre el papel del Derecho en la protección de los derechos fundamentales y en la configuración de una sociedad justa.
-            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_La ciencia jurídica y la filosofía del Derecho.pdf')" target="_blank")
+            p.mb-5(data-aos="fade-up") En el PDF La ciencia jurídica y la filosofía del Derecho, se analiza cómo distintas corrientes filosóficas, desde el positivismo hasta el garantismo, han influido en la manera de concebir el Derecho como una ciencia. Este análisis permite al estudiante identificar los fundamentos teóricos que sostienen la práctica jurídica y reflexionar críticamente sobre el papel del Derecho en la protección de los derechos fundamentales y en la configuración de una sociedad justa.
+            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_La_ciencia_jurídica.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> La ciencia jurídica y la filosofía del Derecho como fundamento de la Ciencia Jurídica
           .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="zoom-in")
@@ -155,7 +155,7 @@
                 p.text-bold La discrecionalidad judicial 
                 p En la práctica, los jueces tienen cierto margen de discrecionalidad al aplicar el Derecho, especialmente cuando las normas son ambiguas o contradictorias. Esta discrecionalidad puede ser vista como un riesgo de arbitrariedad o como una oportunidad para humanizar el Derecho, según las circunstancias particulares de cada caso.
 
-      .row.bg-fondo-1.bg-full-width.py-4.mb-0
+      .row.bg-fondo-1.bg-full-width.py-4.mb-4
         div.px-5.pb-md-3  
 
           #t_3_5.titulo-segundo(data-aos="flip-up")
@@ -165,7 +165,7 @@
 
           p.mb-4 En la actualidad, la interpretación y la aplicación del Derecho, enfrentan nuevos desafíos derivados de la globalización, los avances tecnológicos y la creciente interdependencia entre sistemas jurídicos. Algunos de los principales retos incluyen:
 
-          .row.mb-4.justify-content-center
+          .row.justify-content-center
             .col-10.col-md-8.col-lg-6.col-xl-4.mx-auto.mb-4.mb-xl-0(data-aos='zoom-in')
               .custom-image-card.d-flex.flex-column.p-4.py-md-5
                 img.mx-auto.mb-4(src='@/assets/curso/unidad/img-82.svg', style='width: 80px')
@@ -176,7 +176,7 @@
                 img.mx-auto.mb-4(src='@/assets/curso/unidad/img-83.svg', style='width: 80px')
                 p.text-bold.mb-4.text-center Los Derechos humanos
                 p.px-1.text-small.mb-0.d-flex.text-center La interpretación del Derecho debe considerar los tratados internacionales y los estándares en materia de derechos humanos, lo que amplía la esfera de influencia de principios éticos y morales.
-            .col-10.col-md-8.col-lg-6.col-xl-4.mx-auto.mb-4.mb-xl-0(data-aos='zoom-in')
+            .col-10.col-md-8.col-lg-6.col-xl-4.mx-auto.mb-xl-0(data-aos='zoom-in')
               .custom-image-card.d-flex.flex-column.p-4.py-md-5
                 img.mx-auto.mb-4(src='@/assets/curso/unidad/img-84.svg', style='width: 80px')
                 p.text-bold.mb-4.text-center La Inteligencia Artificial en el Derecho
